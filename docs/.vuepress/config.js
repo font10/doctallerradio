@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Documentacio', link: '/tablets/' },
-      { text: 'External', link: 'https://google.com' },
+      { text: 'Base de dades taller radio', link: 'http://taller-radio-e828c.firebaseapp.com/' },
     ],
     sidebar: [
       {
